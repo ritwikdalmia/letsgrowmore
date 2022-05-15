@@ -1,2 +1,0 @@
-# letsgrowmore
-summer intern
